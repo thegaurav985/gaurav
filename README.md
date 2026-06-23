@@ -1,2 +1,3 @@
 # gaurav
-this i my first repirotry
+this i my first repisotry
+author - guarav
